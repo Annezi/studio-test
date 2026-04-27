@@ -1,0 +1,9 @@
+﻿User-agent: *
+Allow: /
+Disallow: /assets/
+
+Host: commerce-studio.ru
+Sitemap: https://commerce-studio.ru/sitemap.xml
+
+# Yandex recommendations
+Clean-param: utm_source&utm_medium&utm_campaign&utm_term&utm_content / 
